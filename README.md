@@ -12,6 +12,7 @@ Simple CMS written using HTML, CSS, PHP and MYSQL. Perfect for beginners to lear
 ## Setup
 Run the cms.sql file in your database.  
 Edit the database config file in **include/connection.php**.  
+Admin panel is available under **/cp**.  
 Default login and password is:
 `
 admin  
